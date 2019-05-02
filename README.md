@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/mhutter/latest-release.svg?branch=master)](https://travis-ci.com/mhutter/latest-release)
 
-Show all open GitHub latest-release for the current project.
+Check the latest release of a GitHub repository.
 
 ## Usage
 
